@@ -21,6 +21,4 @@ Experiment with ML models to solve real-world problems
 Languages & Frameworks: Python, Django, JavaScript, React.js, Node.js
 Other Tools: Git, REST APIs, SQL/NoSQL Databases
 
-Let’s Connect:
-Linkedin:
-Gmail:
+
